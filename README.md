@@ -1,4 +1,5 @@
 # Mini Tic Tac Toe - Player vs Bot
+![video (online-video-cutter com)](https://github.com/user-attachments/assets/66e4ed8b-e2b8-4b77-82fd-f5ca399bebb7)
 
 A simple browser based Tic Tac Toe game built using HTML, CSS, and vanilla JavaScript. The player competes against a bot that uses the Minimax algorithm.
 Play here: https://shiro1307.github.io/Tic-tac-toe-bot-Minimax-algorithm-/
